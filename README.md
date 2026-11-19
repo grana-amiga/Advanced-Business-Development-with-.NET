@@ -342,6 +342,10 @@ SELECT t.ID,
  ORDER BY t.ID, d.ID;
 ```
 
+## Uso de IA generativa
+
+Durante o desenvolvimento do projeto, o grupo utilizou o Claude e o Claude Code como ferramentas de apoio na interpretação dos requisitos, na implementação e revisão da API, na organização do código e na elaboração da documentação. As sugestões foram analisadas e ajustadas ao contexto da solução, e o funcionamento da aplicação foi verificado em ambiente local, com acesso ao banco Oracle da FIAP. O grupo revisou o conteúdo e é responsável pelas decisões técnicas e pela versão final do projeto.
+
 ## Vídeo
 
 https://youtu.be/kslbIwXLpRo
